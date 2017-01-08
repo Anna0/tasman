@@ -1,0 +1,6 @@
+[submodule "tasman-web"]
+	path = tasman-web
+	url = https://github.com/Anna0/tasman-web.git
+[submodule "tasman-api"]
+	path = tasman-api
+	url = https://github.com/Anna0/tasman-api.git
